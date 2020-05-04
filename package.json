@@ -58,7 +58,7 @@
     "fresh-resume-schema": "^1.0.0-beta",
     "fresh-resume-starter": "^0.3.1",
     "fresh-resume-validator": "^0.2.0",
-    "fresh-themes": "^0.17.0-beta",
+    "fresh-themes": "bastichelaar/freshthemes",
     "fs-extra": "^5.0.0",
     "glob": "^7.1.2",
     "handlebars": "^4.0.5",
